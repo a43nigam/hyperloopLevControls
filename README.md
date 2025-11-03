@@ -11,7 +11,5 @@ Note that both codes include an inductance factor - coils don't charge or discha
 In both codes, we add disturbances at different time intervals to see how the system reacts
 
 <img width="1556" height="1002" alt="Screenshot 2025-11-03 at 10 41 14 AM" src="https://github.com/user-attachments/assets/a4102f21-ef14-4cca-a4a1-ba0460ed3534" />
-One magnet controls
 
 <img width="1520" height="998" alt="Screenshot 2025-11-03 at 10 41 28 AM" src="https://github.com/user-attachments/assets/954b30c1-0e72-4281-8d40-1a124cc8cc60" />
-4 magnet controls
